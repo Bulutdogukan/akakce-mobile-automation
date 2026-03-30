@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
